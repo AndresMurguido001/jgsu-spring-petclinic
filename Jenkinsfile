@@ -22,6 +22,6 @@ pipeline {
             // compressLog: true,
             // to: "test@jenkins",
             // subject: "Job \'${JOB_NAME}\' (${BUILD_NUMBER}) ${currentBuild.result}"
-        }
+        // }
     }
 }
